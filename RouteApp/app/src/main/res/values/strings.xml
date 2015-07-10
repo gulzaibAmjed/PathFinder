@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RouteApp</string>
+    <string name="title_activity_maps">path</string>
+    <string name="title_activity_facedetect">facedetect</string>
+
+
+
+        <string name="click_picture">*Take Picture</string>
+        <string name="action_settings">action settings</string>
+        <string name="speech_prompt">Speech</string>
+        <string name="speech_not_supported">Speech Not</string>
+        <string name="speakbutton">speakbutton</string>
+        <string name="title_activity_facedetection">facedetection</string>
+    <string name="str_rb_driving">Driving</string>
+    <string name="str_rb_bicycling">Cycle</string>
+    <string name="str_rb_walking">Walking</string>
+    <string name="title_activity_SpeakOut" />
+
+
+</resources>
